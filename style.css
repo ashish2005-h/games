@@ -488,6 +488,7 @@ footer button.show{
 
 }  
 .exp{
+    background-image:url('e1.png');
     position:absolute;
     background-size: cover;
     width:600px;
